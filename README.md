@@ -23,11 +23,17 @@ This application allows users to generate AI images based on text prompts using 
     -Visit http://localhost:XXXX as listed in your terminal to access the web interface.
 
 ## Using the Application
+
   -Enter Your FAL API Key: Required for authentication with the FAL API.
-  -Input a Prompt: Describe the image you want to generate.
-  -Configure Settings: Choose image size, number of inference steps, seed, guidance scale, and number of images.
-  -Submit: Click "Submit" to generate and view images.
   
+  -Input a Prompt: Describe the image you want to generate.
+  
+  -Configure Settings: Choose image size, number of inference steps, seed, guidance scale, and number of images.
+  
+  -Submit: Click "Submit" to generate and view images.
+
 ## Troubleshooting
+
   -Ensure your FAL API key is valid.
+  
   -Check console output for any error messages.
