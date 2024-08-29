@@ -20,7 +20,7 @@ This application allows users to generate AI images based on text prompts using 
   
   4.Running the Application:
     -"python app.py" in terminal
-    -Visit http://localhost:XXXX as listed in your browser to access the web interface.
+    -Visit http://localhost:XXXX as listed in your terminal to access the web interface.
 
 ## Using the Application
   -Enter Your FAL API Key: Required for authentication with the FAL API.
