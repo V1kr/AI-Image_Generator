@@ -9,12 +9,11 @@ This project is an AI-powered image generator application built using the **Fast
 1. [Project Structure](#project-structure)
 2. [Why Use FAL API and FastHTML](#why-use-fal-api-and-fasthtml)
 3. [Features](#features)
-4. [Setup and Installation](#setup-and-installation)
+4. [Setup and Installation](#setup)
 5. [How to Run](#how-to-run)
 6. [Getting Your FAL API Key](#getting-your-fal-api-key)
 7. [Usage](#usage)
-8. [Contributing](#contributing)
-9. [License](#license)
+
 
 ## Project Structure
 
