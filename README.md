@@ -51,8 +51,8 @@ The project is divided into multiple files for better readability and maintainab
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/ai-image-generator.git
-   cd ai-image-generator
+   git clone https://github.com/Vikrs05/AI-Image-Generator
+   cd AI-Image-Generator
    ```
 
 ## Install Dependencies
