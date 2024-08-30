@@ -24,7 +24,6 @@ The project is divided into multiple files for better readability and maintainab
 - **`routes.py`**: Contains the route handlers for the application. It defines the logic for the homepage and the image generation endpoint.
 - **`templates.py`**: Manages the HTML structure, CSS, and JavaScript needed for the front-end interface. It contains functions to render different components of the webpage.
 - **`client.py`**: Handles interactions with the FAL API. It includes functions to submit requests and fetch results from the API.
-- **`utils.py`**: (Optional) A placeholder for utility functions that could be added for additional features or functionality.
 
 ## Why Use FAL API and FastHTML
 
