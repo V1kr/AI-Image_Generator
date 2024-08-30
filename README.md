@@ -46,14 +46,14 @@ The project is divided into multiple files for better readability and maintainab
 - **Multiple Image Support**: Generate up to 4 images at once.
 - **Safety Checker**: An optional safety checker feature to ensure generated content adheres to safety standards.
 
-## Setup and Installation
+## Setup 
 
-1. **Clone the Repository**:
+Clone the Repository:
 
-   ```bash
-   git clone https://github.com/Vikrs05/AI-Image-Generator
-   cd AI-Image-Generator
-   ```
+```bash
+git clone https://github.com/Vikrs05/AI-Image-Generator
+cd AI-Image-Generator
+```
 
 ## Install Dependencies
 
@@ -62,12 +62,6 @@ Make sure you have Python installed. Then, install the necessary Python packages
 ```bash
 pip install fasthtml fal_client
 ```
-
-## Set Up Your FAL API Key
-
-Obtain your API key from the FAL Dashboard and keep it handy for the next step.
-
-## How to Run
 
 ### Run the Application
 
@@ -85,7 +79,7 @@ Open your web browser and go to [http://localhost:8000](http://localhost:8000).
 
 To use the image generation features, you need a valid FAL API key:
 
-1. Go to the [FAL Dashboard](#).
+1. Go to the [FAL Dashboard]([#](https://fal.ai/dashboard/keys)).
 2. Log in or sign up for an account.
 3. Navigate to the API keys section and create a new key.
 4. Copy the generated key and use it in the application when prompted.
