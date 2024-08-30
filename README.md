@@ -1,4 +1,4 @@
-# AI Image Generator using FastHTML and FAL API
+# AI Image Generator
 
 ## Overview
 
@@ -79,7 +79,7 @@ Open your web browser and go to [http://localhost:8000](http://localhost:8000).
 
 To use the image generation features, you need a valid FAL API key:
 
-1. Go to the [FAL Dashboard]([#](https://fal.ai/dashboard/keys)).
+1. Go to the [FAL Dashboard]([(https://fal.ai/dashboard/keys)]).
 2. Log in or sign up for an account.
 3. Navigate to the API keys section and create a new key.
 4. Copy the generated key and use it in the application when prompted.
