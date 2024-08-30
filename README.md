@@ -79,7 +79,7 @@ python app.py
 
 ### Access the Application
 
-Open your web browser and go to [http://localhost:8000](http://localhost:8000) (or the port you specified if different).
+Open your web browser and go to [http://localhost:8000](http://localhost:8000).
 
 ## Getting Your FAL API Key
 
